@@ -33,4 +33,6 @@
 
 - [ ] Encompass:
   - [ ] C Programming Language
-- [ ] C → This language is best to use when writing a compiler, it is fast, and close to how computers actually work. 
+- [ ] C → This language is best to use when writing a compiler, it is fast, and close to how computers actually work.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
